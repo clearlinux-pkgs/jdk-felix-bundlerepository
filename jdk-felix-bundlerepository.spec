@@ -1,6 +1,6 @@
 Name     : jdk-felix-bundlerepository
 Version  : 1.6.6
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/org/apache/felix/org.apache.felix.bundlerepository/1.6.6/org.apache.felix.bundlerepository-1.6.6.jar
 Source0  : http://repo2.maven.org/maven2/org/apache/felix/org.apache.felix.bundlerepository/1.6.6/org.apache.felix.bundlerepository-1.6.6.jar
 Source1  : http://repo2.maven.org/maven2/org/apache/felix/org.apache.felix.bundlerepository/1.6.6/org.apache.felix.bundlerepository-1.6.6.pom
